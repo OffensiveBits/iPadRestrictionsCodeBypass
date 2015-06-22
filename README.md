@@ -17,5 +17,7 @@ platform) to the iPad, and make use of the python script residing in this reposi
 
 Please note this POC was purely done for informative purposes and was not quality tested or adjusted to work with all devices.
 
+For video demo please see:
 
+https://youtu.be/ceDA_4_omgw
 
